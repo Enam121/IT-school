@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "courseTitle": "Modern JavaScript From The Beginning",
+    "description": "Learn and build projects with pure JavaScript (No frameworks or libraries)",
+    "thumbnail": "https://img-c.udemycdn.com/course/240x135/1463348_52a4_2.jpg",
+    "instractor": "Jhankar Mahbub",
+    "rating": 4.7,
+    "review": 420,
+    "student": 600,
+    "lecture": 96,
+    "price": 19
+  },
+  {
+    "id": 2,
+    "courseTitle": "React-  The Complete Guide (incl Hooks, React Router, Redux)",
+    "description": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!\n    ",
+    "thumbnail": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+    "instractor": "Jhankar Mahbub",
+    "rating": 4.7,
+    "review": 1220,
+    "student": 1500,
+    "lecture": 487,
+    "price": 17
+  },
+  {
+    "id": 3,
+    "courseTitle": "Learn and Understand NodeJS",
+    "description": "Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more.\n    ",
+    "thumbnail": "https://img-c.udemycdn.com/course/240x135/461160_8d87_6.jpg",
+    "instractor": "Jhankar Mahbub",
+    "rating": 4,
+    "review": 700,
+    "student": 1200,
+    "lecture": 99,
+    "price": 15
+  },
+  {
+    "id": 4,
+    "courseTitle": "C Programming For Beginners - Master the C Language",
+    "description": "C Programming will increase career options. Become a better dev in other languages by learning C. Pointers explained.\n    ",
+    "thumbnail": "https://img-c.udemycdn.com/course/240x135/1467808_f8c0.jpg",
+    "instractor": "Jhankar Mahbub",
+    "rating": 3.4,
+    "review": 1200,
+    "student": 2000,
+    "lecture": 147,
+    "price": 13
+  },
+  {
+    "id": 5,
+    "courseTitle": "Complete Python Developer in 2021: Zero to Mastery",
+    "description": "How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web Development, Machine Learning + more!\n    ",
+    "thumbnail": "https://img-c.udemycdn.com/course/240x135/666914_6c60_3.jpg",
+    "instractor": "Jhankar Mahbub",
+    "rating": 3.9,
+    "review": 1475,
+    "student": 2700,
+    "lecture": 197,
+    "price": 15
+  },
+  {
+    "id": 6,
+    "courseTitle": "The Complete Web Developer in 2021: Zero to Mastery",
+    "description": "Learn to code and become a Web Developer in 2021 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!\n    ",
+    "thumbnail": "https://img-c.udemycdn.com/course/240x135/1430746_2f43_10.jpg",
+    "instractor": "Jhankar Mahbub",
+    "rating": 4.9,
+    "review": 4300,
+    "student": 4700,
+    "lecture": 698,
+    "price": 25
+  },
+  {
+    "id": 7,
+    "courseTitle": "Angular - The Complete Guide (2021 Edition)",
+    "description": "Master Angular 12 (formerly \"Angular 2\") and build awesome, reactive web apps with the successor of Angular.js\n    ",
+    "thumbnail": "https://img-c.udemycdn.com/course/240x135/1247828_32bb.jpg",
+    "instractor": "Jhankar Mahbub",
+    "rating": 2.6,
+    "review": 430,
+    "student": 1360,
+    "lecture": 451,
+    "price": 17
+  },
+  {
+    "id": 8,
+    "courseTitle": "SQL for Beginners: Learn SQL using MySQL and Database Design",
+    "description": "Understand SQL using the MySQL database. Learn Database Design and Data Analysis with Normalization and Relationships\n    ",
+    "thumbnail": "https://img-c.udemycdn.com/course/240x135/866196_be1d.jpg",
+    "instractor": "Jhankar Mahbub",
+    "rating": 3.8,
+    "review": 944,
+    "student": 1960,
+    "lecture": 122,
+    "price": 21
+  }
+]
