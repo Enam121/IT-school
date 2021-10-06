@@ -8,6 +8,11 @@
   color: #ff4f1e;
   
 }
-.justity{
+.justify{
   text-align: justify;
+
+}
+.hover:hover{
+text-decoration: underline;
+
 }

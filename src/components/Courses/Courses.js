@@ -3,7 +3,7 @@ import './courses.css'
 import useData from '../../hooks/useData'
 import Card from '../Card/Card';
 
-const Services = () => {
+const Courses = () => {
 
   const [courses] = useData();
 
@@ -29,4 +29,4 @@ const Services = () => {
   );
 };
 
-export default Services;
+export default Courses;
